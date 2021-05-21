@@ -3,7 +3,7 @@
 
 My name is Jacob.
 
-I'm a data scientist, an artist, a writer, musician, polymath, and can often be found new fields/mediums to work in.
+I'm a data scientist, an artist, a writer, musician, polymath, and can often be found new experimenting in new fields/mediums.
 
 For the last year, the lion's share of my attention has gone into learning Data Science techniques and principles at Lambda School. Through their course and my own tenacity I have learned how to use python and various libraries associated with the language (geopandas, matplotlib, pandas, plotly, scikit-learn, seaborn). The course included coverage of SQL; it should be noted that among my priorities post-Lambda are to deepend my knowledge of this language.
 
