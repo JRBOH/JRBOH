@@ -14,6 +14,9 @@ My other career is in the arts. I am a sculptor and performance artist with a BF
 I am an open book. It would be fantastic to hear from you, whether for professinoal concerns or artistic. 
 
 please contact/add me on:
+
 LinkedIn: https://www.linkedin.com/in/jacob-r-bohlen/
+
 Twitter: https://twitter.com/jacob_bohlen/
+
 Medium: https://jacob-r-bohlen.medium.com/
